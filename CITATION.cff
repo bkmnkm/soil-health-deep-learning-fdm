@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Code for: Smart agriculture using deep learning and FDM for the relation of soil health, fertilizer and ground water"
+type: software
+authors:
+  - family-names: "Mishra"
+    given-names: "Brajesh Kumar"
+  - family-names: "Singh"
+    given-names: "Bhagat"
+  - family-names: "Panwar"
+    given-names: "Ruchi"
+repository-code: "https://github.com/[YOUR-USERNAME]/soil-health-deep-learning-fdm"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Smart agriculture using deep learning and FDM for the relation of soil health, fertilizer and ground water"
+  journal: "International Journal of System Assurance Engineering and Management"
+  year: 2025
+  doi: "10.1007/s13198-025-03055-1"
+  authors:
+    - family-names: "Mishra"
+      given-names: "Brajesh Kumar"
+    - family-names: "Singh"
+      given-names: "Bhagat"
+    - family-names: "Panwar"
+      given-names: "Ruchi"
